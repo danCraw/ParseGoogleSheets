@@ -3,7 +3,7 @@
 Гугл документ - https://docs.google.com/spreadsheets/d/1sZ4D83zen7rlvz2rOndPFJNWI52NJ3NQQF5vAhXtvos/edit#gid=0
 Python 3.10
 PostgreSQL 14.3
-psql -U postgres                                                                                                                                                                                               ✔  7h 41m 44s  
+psql -U postgres
 CREATE DATABASE supplies;
 \c supplies
 CREATE TABLE orders (
